@@ -1,4 +1,4 @@
-Hi, I'm Rajeswari 👋
+# Hi, I'm Rajeswari 👋
 
 🎓 Computer Science & Engineering Graduate
 
@@ -14,7 +14,7 @@ Hi, I'm Rajeswari 👋
 - HTML
 - CSS
 - Git & GitHub
-- Building AI Agents
+- Building AI agents
 
 ### 🚀 Projects
 
@@ -29,8 +29,8 @@ I'm currently looking for opportunities as a:
 
 - Python Developer Intern
 - AI/ML Intern
-- Software Developer
-- Data Analyst
+- Software Developer Intern
+- Data Analyst Intern
 
 ### 📫 Connect With Me
 
