@@ -1,4 +1,4 @@
-                                 #Hi, I'm Rajeswari 👋
+                                 Hi, I'm Rajeswari 👋
 
 🎓 Computer Science & Engineering Graduate
 
