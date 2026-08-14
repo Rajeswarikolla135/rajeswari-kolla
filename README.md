@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://i.pinimg.com/1200x/2f/86/81/2f8681fb6e9c60a906e0672f6cbdf3e7.jpg" alt="MOMENTS, MADE TO KEEP" />
 </p>
 <h1 align="center">Hi 👋, I'm Rajeswari Kolla</h1>
 
